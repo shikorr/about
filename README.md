@@ -1,0 +1,2 @@
+# about
+All about technology.
